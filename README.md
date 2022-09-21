@@ -22,11 +22,8 @@ Salehinejad, et al. (2021) published a paper on one such deep learning model dev
 
 Much research is also being done in open-source coding communities such as Kaggle. A notebook published by Samuel Cortinhas (2022), developed a model which segmented the C1 through C7 vertebrae and trained a Random Forest Classifier to predict the incidence of spine fracture with 88% accuracy for the RSNA 2022 Cervical Spine Fracture Detection competition. As seen in the figure below, their solution produced an output of bound boxes for the Region of Interest (RoI) where the fracture is likely to be located [14]. This is already much improved from the standard classification rate using CT alone – and the open-source nature of this solution has allowed others to implement their own improvements based upon this notebook to create even more robust diagnostic tools.
 
+![My Image](CTImage.png)
 
-
-
- 
- 
 Fig 1: Some examples of regions of found cervical spine fracture post-image segmentation. 
 
 ## _Conclusion:_
