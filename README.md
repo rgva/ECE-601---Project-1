@@ -33,16 +33,29 @@ The potential for CT imaging to approach the sensitivity and specificity of more
 ## _References:_
 
 [1] M. Taschetta-Millane, “RSNA launches cervical spine fracture AI Challenge,” Imaging Technology News, 01-Aug-2022. [Online]. Available: https://www.itnonline.com/content/rsna-launches-cervical-spine-fracture-ai-challenge. [Accessed: 13-Sep-2022]. 
+
 [2] “Cervical spine (neck): What it is, Anatomy & Disorders,” Cleveland Clinic. [Online]. Available: https://my.clevelandclinic.org/health/articles/22278-cervical-spine. [Accessed: 18-Sep-2022]. 
+
 [3] “Cervical spinal cord injury: Symptoms and prognosis,” What Is a Cervical Spinal Cord Injury? | Shepherd Center. [Online]. Available: https://www.shepherd.org/patient-programs/spinal-cord-injury/levels-and-types/Cervical-Spinal-Cord-Injury. [Accessed: 18-Sep-2022]. 
+
 [4] “Spinal Cord Injury,” Mayo Clinic, 02-Oct-2021. [Online]. Available: https://www.mayoclinic.org/diseases-conditions/spinal-cord-injury/diagnosis-treatment/drc-20377895#:~:text=MRI.,might%20compress%20the%20spinal%20cord. [Accessed: 18-Sep-2022]. 
+
 [5] “CT scan vs. MRI: What's the difference? and how do doctors choose which imaging method to use?,” Memorial Sloan Kettering Cancer Center, 13-Jul-2022. [Online]. Available: https://www.mskcc.org/news/ct-vs-mri-what-s-difference-and-how-do-doctors-choose-which-imaging-method-use. [Accessed: 18-Sep-2022]. 
+
 [6]  A. Swift, R. Heale, and A. Twycross, “What are sensitivity and specificity?,” Evidence-Based Nursing, 01-Jan-2020. [Online]. Available: https://ebn.bmj.com/content/23/1/2. [Accessed: 18-Sep-2022]. 
+
 [7] K. D. Foote, “A brief history of machine learning,” DATAVERSITY, 20-Jan-2022. [Online]. Available: https://www.dataversity.net/a-brief-history-of-machine-learning/. [Accessed: 18-Sep-2022]. 
+
 [8] E. Bercovich and M. C. Javitt, “Medical imaging: From Roentgen to the Digital Revolution, and beyond,” Rambam Maimonides medical journal, 04-Oct-2018. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6186003/. [Accessed: 18-Sep-2022]. 
+
 [9] E. Eggenberger, G. Hildebrand, S. Vang, A. Ly, and C. Ward, “Use of CT vs. MRI for diagnosis of hip or pelvic fractures in elderly patients after low energy trauma,” The Iowa orthopaedic journal, 2019. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604520/. [Accessed: 18-Sep-2022]. 
+
 [10] C. Y. Chang,  D. I. Rosenthal, I. D. M. Mitchell, A. Handa, S.V. Kattapuram, and A. J. Huang, “Imaging findings of Metabolic Bone Disease,” RadioGraphics, 11-Oct-2016. [Online]. Available: https://pubs.rsna.org/doi/full/10.1148/rg.2016160004. [Accessed: 18-Sep-2022]. 
+
 [11] B. J. Erickson, P. Korfiatis, Z. Akkus, and T. L. Kline, “Machine Learning for Medical Imaging,” RadioGraphics, 17-Feb-2017. [Online]. Available: https://pubs.rsna.org/doi/full/10.1148/rg.2017160130/. [Accessed: 18-Sep-2022]. 
+
 [12] H. Salehinejad et al., "Deep Sequential Learning For Cervical Spine Fracture Detection On Computed Tomography Imaging," 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI), 2021, pp. 1911-1914, doi: 10.1109/ISBI48211.2021.9434126.
+
 [13] “Deep Network designer,” ResNet-101 convolutional neural network - MATLAB. [Online]. Available: https://www.mathworks.com/help/deeplearning/ref/resnet101.html;jsessionid=1d51583cd0bd68742fc05dea6fc5. [Accessed: 18-Sep-2022]. 
+
 [14] S. Cortinhas, “Extracting vertebrae c1, ..., C7,” Kaggle, 25-Aug-2022. [Online]. Available: https://www.kaggle.com/code/samuelcortinhas/extracting-vertebrae-c1-c7. [Accessed: 18-Sep-2022]. 
